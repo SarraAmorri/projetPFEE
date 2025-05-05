@@ -1,0 +1,5 @@
+background-image: url('C:\Users\sarra\OneDrive\Desktop\Les Interface\transport.jpg');
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+filter: brightness(50%);
